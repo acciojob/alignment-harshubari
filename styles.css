@@ -1,1 +1,27 @@
+h1{
+	text-align:center;
+}
+.right{
+	text-align:right;
+}
+.center{
+	text-align:center;
+}
+.middle {
+    padding: 1px;
+}
+img {
+    width: 100px;
+    margin: 0;
+}
+.blue{
+	background-color:blue;
+}
+.green{
+	background-color:green;
+}
+td{
+	border: 1px solid rgb(0, 0, 0);
+	padding:1px;
+}
 /*  your css code here. If applicable */
